@@ -7,8 +7,8 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'blog-app-angular-mysql';
 
   constructor(private router: Router) {
   }
+
 }
