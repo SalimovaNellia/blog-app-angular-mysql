@@ -21,9 +21,9 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
     BlogpostModule,
-    CmspageModule
+    CmspageModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
