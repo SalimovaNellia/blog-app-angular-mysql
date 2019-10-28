@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BlogpostListComponent implements OnInit {
 
+  title = 'Blogs';
+
   constructor() { }
 
   ngOnInit() {
